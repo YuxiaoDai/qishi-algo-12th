@@ -1,4 +1,4 @@
-# week 4: two pointers and sliding window
+# week 8: two pointers and sliding window
 
 ## problem 1
 [Leetcode 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
